@@ -3,7 +3,11 @@
 Mi profundo interés por el mundo TI surge de mi deseo de facilitar la vida cotidiana de las personas a través de herramientas tecnológicas que permitan una planificación y organización de nuestro día a día.
 El mundo Tech me fascina, ya que representa un constante aprendizaje y la posibilidad de expandir horizontes. Estoy comprometida con el uso de la tecnología para crear soluciones innovadoras que mejoren la calidad de vida de las personas y hagan que el mundo sea un lugar más conectado y eficiente.
 
-- ⚡ Dato curioso:
+
+
+
+⚡ Dato curioso:
+
 - Leer libros de superacion personal
 - Me gusta el anime y manga
 - Me encantan las manualidades con foami y fieltro
@@ -11,7 +15,7 @@ El mundo Tech me fascina, ya que representa un constante aprendizaje y la posibi
 
 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,angular,typescript,jest,html,css,sass,figma,adobexd,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,angular,typescript,jest,firebase,html,css,sass,figma,netlify,postman,git)](https://skillicons.dev)
 
 
 📫 Contactame:
