@@ -14,10 +14,11 @@ El mundo Tech me fascina, ya que representa un constante aprendizaje y la posibi
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,angular,typescript,jest,html,css,sass,figma,adobexd,)](https://skillicons.dev)
 
 
-- 📫 Contactame
-- 📧 Email: abrilv29@gmail.com
+📫 Contactame:
+
+📧 Email: abrilv29@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/abril-vargas-824ab9285/
--  
+  
 
 
 
