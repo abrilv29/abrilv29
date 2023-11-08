@@ -15,7 +15,7 @@ El mundo Tech me fascina, ya que representa un constante aprendizaje y la posibi
                                        
 <h3 align="left">💻 Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,angular,typescript,jest,firebase,html,css,sass,figma,netlify,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,javascript,nodejs,angular,typescript,jest,firebase,html,css,sass,bootstrap,figma,xd,netlify,postman,git,jasmin)](https://skillicons.dev)
 
 
 # 📫 Contactame:
